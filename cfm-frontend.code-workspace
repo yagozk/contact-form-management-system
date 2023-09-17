@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "cfm-frontend"
+		},
+		{
+			"path": "cfm-server"
+		}
+	],
+	"settings": {}
+}
